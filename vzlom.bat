@@ -1,6 +1,6 @@
 @echo off 
 color 0a
-title --------------VIA HACKER--------------
+title --------------Vzlom--------------
 :top
 echo %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random% 
 goto top
